@@ -1,0 +1,25 @@
+/* CSS =) */
+
+.skrollable {
+    position: fixed;
+    z-index: 100;
+}
+.skrollr-mobile .skrollable {
+    position: absolute;
+}
+.skrollable .skrollable {
+    position: absolute;
+}
+.skrollable .skrollable .skrollable {
+    position: static;
+}
+
+#layer3 {
+background-image: url("http://bugalho.net.br/images/layer3.png");
+background-repeat: no-repeat;
+height: 100%;
+left: 0;
+top: 0;
+width: 100%;
+z-index: 49;
+}

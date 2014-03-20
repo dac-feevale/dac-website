@@ -1,0 +1,72 @@
+
+
+body{
+    
+}
+
+.example-orbit img{
+    height: 450px;
+    width:100%;
+}
+
+[data-magellan-expedition] {
+    background: #333333;
+    z-index: 50;
+    padding: 0 15px;
+}
+
+.top{
+    padding-top:45px;
+}
+
+.background-white{
+    background: #FFFFFF;
+    min-height: 570px;
+    padding-top: 45px;
+    z-index: 1;
+    position: relative;
+}
+
+.background-black{
+    min-height: 570px;
+    padding-top: 45px;
+    z-index:1;
+    position: relative;
+}
+
+.top-bar-section li.active:not(.has-form) a:not(.button) {
+    padding: 0 15px;
+    line-height: 45px;
+    color: white;
+    background: #37539D;
+}
+
+.content-box-text{
+    padding: 50px 55px;
+}
+
+.sidebar-notices{
+    border-left: 1px dashed #808080;
+    padding: 0px 50px 55px 20px;
+    margin-top: 50px;
+}
+
+.sidebar-notices h5{
+    color: #008CBA;
+}
+
+.sidebar-notices a{
+    color: #999988 !important;
+}
+
+.background{
+    background-image: url("../img/background.png");
+    background-repeat: repeat;
+    height: 100%;
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: 0;
+}
+
+

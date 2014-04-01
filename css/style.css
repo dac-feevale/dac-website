@@ -79,15 +79,15 @@ body{
 }
 
 .person img{
+    background-color: #333333;
     border: 11px solid #333333 !important;
     border-radius: 50%;
     width: 220px;
 }
 
 .person img:hover{
+    background-color: #B0343E;
     border: 11px solid #B0343E !important;
-    border-radius: 50%;
-    width: 220px;
 }
 
 .social{

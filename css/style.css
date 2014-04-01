@@ -69,4 +69,60 @@ body{
     z-index: 0;
 }
 
+.person{
+    float:left;
+    width: 220px;
+}
 
+.person *{
+    text-align:center;
+}
+
+.person img{
+    border: 11px solid #333333 !important;
+    border-radius: 50%;
+    width: 220px;
+}
+
+.person img:hover{
+    border: 11px solid #B0343E !important;
+    border-radius: 50%;
+    width: 220px;
+}
+
+.social{
+    margin: auto;
+    height: 48px;
+    display: table;
+}
+
+.social a{
+    display: block;
+    height: 48px;
+    float: left;
+    width: 48px;
+}
+
+.g-plus{
+    background: url(../img/1396308484_80-google-plus.png);
+}
+
+.g-plus:hover{
+    background: url(../img/1396308484_80-google-plus-hover.png);
+}
+
+.face{
+    background: url(../img/1396313468_46-facebook.png);
+}
+
+.face:hover{
+    background: url(../img/1396313468_46-facebook-hover.png);
+}
+
+.twitter{
+    background: url(../img/1396313498_43-twitter.png);
+}
+
+.twitter:hover{
+    background: url(../img/1396313498_43-twitter-hover.png);
+}

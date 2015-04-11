@@ -1,0 +1,23 @@
+{
+  "name": "dac-website",
+  "version": "0.0.1",
+  "description": "Website do DA",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dac-feevale/dac-website.git"
+  },
+  "author": "",
+  "license": "proprietary",
+  "bugs": {
+    "url": "https://github.com/dac-feevale/dac-website/issues"
+  },
+  "homepage": "https://github.com/dac-feevale/dac-website",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}

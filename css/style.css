@@ -6,7 +6,7 @@ body{
 
 .example-orbit img{
     height: 450px;
-    width:100%;
+    margin: auto;
 }
 
 [data-magellan-expedition] {
@@ -15,14 +15,14 @@ body{
     padding: 0 15px;
 }
 
-.top{
+.my-top{
     padding-top:45px;
 }
 
 .background-white{
     background: #FFFFFF;
     min-height: 570px;
-    padding-top: 45px;
+    padding-top: 50px;
     z-index: 1;
     position: relative;
 }
@@ -41,21 +41,25 @@ body{
     background: #37539D;
 }
 
+.top-bar-section li.active:not(.has-form) a:hover:not(.button), .top-bar-section li:not(.has-form) a:hover:not(.button){
+    background: #DB4733;
+}
+
 .content-box-text{
     padding: 50px 55px;
 }
 
-.sidebar-notices{
+.sidebar{
     border-left: 1px dashed #808080;
     padding: 0px 50px 55px 20px;
     margin-top: 50px;
 }
 
-.sidebar-notices h5{
+.sidebar h5{
     color: #008CBA;
 }
 
-.sidebar-notices a{
+.sidebar a{
     color: #999988 !important;
 }
 
@@ -69,9 +73,23 @@ body{
     z-index: 0;
 }
 
+.people{
+    margin: auto;
+	width: 1010px;
+}
+
+/*.people:first-child{
+    width: 1010px;
+}
+
+.people:last-child{
+    width: 760px;
+}*/
+
 .person{
     float:left;
-    width: 220px;
+    width: 180px;
+    margin: 0 36px;
 }
 
 .person *{
@@ -86,8 +104,8 @@ body{
 }
 
 .person img:hover{
-    background-color: #B0343E;
-    border: 11px solid #B0343E !important;
+    background-color: #DB4733;
+    border: 11px solid #DB4733 !important;
 }
 
 .social{
@@ -98,9 +116,10 @@ body{
 
 .social a{
     display: block;
-    height: 48px;
+    height: 32px; 
     float: left;
-    width: 48px;
+    width: 32px;
+    background-size: 100%;
 }
 
 .g-plus{
@@ -109,6 +128,7 @@ body{
 
 .g-plus:hover{
     background: url(../img/1396308484_80-google-plus-hover.png);
+    background-size: 100%;
 }
 
 .face{
@@ -117,6 +137,7 @@ body{
 
 .face:hover{
     background: url(../img/1396313468_46-facebook-hover.png);
+    background-size: 100%;
 }
 
 .twitter{
@@ -125,4 +146,55 @@ body{
 
 .twitter:hover{
     background: url(../img/1396313498_43-twitter-hover.png);
+    background-size: 100%;
+}
+
+.github{
+    background: url(../img/1396313498_43-github.png);
+}
+
+.github:hover{
+    background: url(../img/1396313498_43-github-hover.png);
+    background-size: 100%;
+}
+
+.background-black h1, .background-black label{
+    color: #FFFFFF !important;
+    font-weight:bolder !important;
+}
+
+.background-black p{
+    color: #FFFFFF;
+}
+
+.color-blue{
+    color:#37539D;
+}
+
+.button{
+    background-color: #37539D !important;
+}
+
+.button:hover{
+    background-color: #DB4733 !important;
+}
+
+textarea{
+    height: 150px;
+}
+
+.img-git-suporte{
+    margin: auto;
+    width: 250px;
+}
+
+
+.top-bar .left li{
+    float: left;
+    margin-top: 5px;
+    margin-right: 15px;
+}
+
+.content-box-text img{
+	margin-bottom: 20px;
 }

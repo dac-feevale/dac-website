@@ -1,0 +1,82 @@
+<div class="people clearfix">
+	<div class="person">
+		<div class="circle">
+			<img src="img/franci.png" alt="Franciéli Bugalho" data-tooltip class="has-tip" 
+				 title="Adora gatos, pizza e anime =)" />
+		</div>
+		<h5>Franciéli Bugalho</h5>
+		<h5 class="subheader">Presidente</h5>
+		<div class="social">
+			<a href="https://plus.google.com/u/0/+FrancieliBugalho/posts" target="_blank" class="g-plus"></a>
+			<a href="https://github.com/FrancieliB" target="_blank" class="github"></a>
+		</div>
+	</div>
+	<div class="person">
+		<div class="circle">
+			<img src="img/gabriel.jpg" alt="Gabriel Tadeu Hoff" />
+		</div>
+		<h5>Gabriel Hoff</h5>
+		<h5 class="subheader">Vice-presidente</h5>
+		<div class="social">
+			<a href="https://plus.google.com/+GabrielHoff/posts" target="_blank" class="g-plus"></a>
+			<a href="https://www.facebook.com/gabrielhof" target="_blank" class="face"></a>
+			<a href="https://twitter.com/gabriel_hof" target="_blank" class="twitter"></a>
+			<a href="https://github.com/gabrielhof" target="_blank" class="github"></a>
+		</div>
+	</div>
+	<div class="person">
+		<div class="circle">
+			<img src="img/susi.jpg" alt="Susiéli Bugalho" data-tooltip class="has-tip" title="Não vive sem música, café e pizza." />
+		</div>
+		<h5>Susiéli Bugalho</h5>
+		<h5 class="subheader">1ª Secretária</h5>
+		<div class="social">
+			<a href="https://plus.google.com/u/0/109206178451415356896/posts" target="_blank" class="g-plus"></a>
+			<a href="https://www.facebook.com/susieli.bugalho" target="_blank" class="face"></a>
+		</div>
+	</div>
+	<div class="person">
+		<div class="circle">
+			<img src="img/blanda.jpg" alt="Blanda Helena de Mello" data-tooltip class="has-tip" title="Viciada em livros, música, chocolate e chimarrão... " />
+		</div>
+		<h5>Blanda de Mello</h5>
+		<h5 class="subheader">2ª Secretária</h5>
+		<div class="social">
+			<a href="https://plus.google.com/u/0/100916097702424910221/posts" target="_blank" class="g-plus"></a>
+			<a href="https://www.facebook.com/blandamellus" target="_blank" class="face"></a>
+		</div>
+	</div>
+</div>
+<div class="people clearfix">
+	<div class="person">
+		<div class="circle">
+			<img src="img/felipe.jpg" alt="Felipe Lorenzoni" data-tooltip class="has-tip" title="Seriados, Livros e muito café" />
+		</div>
+		<h5>Felipe Lorenzoni</h5>
+		<h5 class="subheader">1º Tesoureiro</h5>
+		<div class="social">
+			<a href="" target="_blank" class="g-plus"></a>
+			<a href="" target="_blank" class="face"></a>
+			<a href="" target="_blank" class="twitter"></a>
+		</div>
+	</div>
+	<div class="person">
+		<div class="circle">
+			<img src="img/julio.jpg" alt="Julio Goldschmidt" data-tooltip class="has-tip" title="Motos, tecnologia and rock 'n' roll" />
+		</div>
+		<h5>Julio Goldschmidt</h5>
+		<h5 class="subheader">2º Tesoureiro</h5>
+		<div class="social">
+			<a href="https://www.facebook.com/profile.php?id=1206228140" target="_blank" class="face"></a>
+		</div>
+	</div>
+	<div class="person">
+		<div class="circle">
+			<img src="img/lucas2.jpg" alt="Lucas Piffer" data-tooltip class="has-tip" title="Sócio da NextWalk" />
+		</div>
+		<h5>Lucas Piffer</h5>
+		<h5 class="subheader">Diretor de Comunicação</h5>
+		<div class="social">
+		</div>
+	</div>
+</div>
